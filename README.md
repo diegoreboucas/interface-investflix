@@ -16,13 +16,15 @@ O propósito desse projeto foi estudar os conceitos do HTML semântico, flexbox,
 - CSS3
 - JavaScript
 
-##### Layout web 💻
+##### Layout web 💻 
+
+![layout-web](https://github.com/diegoreboucas/interface-investflix/blob/master/img/layout-web.png)
 
 
+##### Layout Mobile 📱 
 
+![layout-mobile](https://github.com/diegoreboucas/interface-investflix/blob/master/img/layout-mobile.png)
 
-
-##### Layout Mobile 📱
 
 
 
